@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfi:home|Door43 (bfi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfi|d43-bfi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfi/archive/master.zip|d43-bfi.zip]]
+
+**Recent Changes**
+{{changes>ns = bfi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfi|Ethnologue data]]
+
